@@ -54,7 +54,7 @@ So let's take a step forward by doing more investigation about this process by d
 ```
 volatility -f memdump.mem --profile=WinXPSP2x86 cmdline -p 1308
 ```
-Note that we have passed the PID **1308** which related to our **WinRAR.exe** process. We get back the following result showing that this file **C:\Documents and Settings\Administrator\Desktop\important.rar** was used by the **WinRAR.exe** which looks important as it says xD
+Note that we have passed the PID **1308** which related to our **WinRAR.exe** process. We get back the following result showing that this file **C:\Documents and Settings\Administrator\Desktop\important.rar** was used by the **WinRAR.exe** which looks important as it says :smile_cat:
 
 ![cmdline](assets/data-leakage03.png)
 
