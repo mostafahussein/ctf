@@ -81,7 +81,7 @@ As we can see the result introduced two files:
 
 ![dumpfiles](assets/data-leakage05.png)
 
-In order to check the file type we have can follow one of the following ways:
+In order to check the file type we can follow one of the following ways:
 
 ```
 file file.None.0x8147e6c8.dat
