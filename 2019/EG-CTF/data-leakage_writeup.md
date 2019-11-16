@@ -1,5 +1,4 @@
 # Data Leakage, Forensics
----
 
 ![featuredimage](assets/digital_forensics.jpg)
 
@@ -122,6 +121,6 @@ volatility -f memdump.mem --profile=WinXPSP2x86 envars -p 1308
 
 ![flag](assets/data-leakage10.png)
 
-Flag: EGCTF{ad32c1b2264aef4bd1ecd2ce433d2175}
+**Flag**: EGCTF{ad32c1b2264aef4bd1ecd2ce433d2175}
 
 
